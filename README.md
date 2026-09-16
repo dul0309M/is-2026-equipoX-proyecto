@@ -1,1 +1,14 @@
-# is-2026-equipoX-proyecto
+# \# Proyecto de Ingeniería de Software
+
+# \*\*Asignatura:\*\* Ingeniería de Software (7° Cuatrimestre)
+
+# \*\*Equipo:\*\* EquipoFriendly
+
+# 
+
+# \## Integrantes
+
+# 1\. Dulce Maritza Jaral Ramírez
+
+# 2\. Diego cierra Ruelas
+
