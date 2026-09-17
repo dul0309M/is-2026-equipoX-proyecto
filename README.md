@@ -10,5 +10,5 @@
 
 # 1\. Dulce Maritza Jaral Ramírez
 
-# 2\. Diego cierra Ruelas
+# 2\. Diego Sierra Ruelas
 
