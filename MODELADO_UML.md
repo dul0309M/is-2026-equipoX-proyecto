@@ -67,3 +67,6 @@ sequenceDiagram
     UI -->|HTTPS / REST| API
     API --> Auth
     API --> DB
+
+    -- Esquema Relacional de Base de Datos - ConsultorioPsi
+
